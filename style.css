@@ -46,7 +46,7 @@ h3{
 
 .mcloud{
     position: absolute;
-    left: 300px;
+    left: 200px;
     top: 300px;
 }
 
@@ -69,6 +69,7 @@ h3{
 .chilli{
     width: 25%;
     float: right;
+    background-color: white;
 }
 
 p{
