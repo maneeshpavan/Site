@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.nav-bar-bg-image-container{
+    background-image: url("https://starkinsolutions.com/wp-content/uploads/2020/10/team-hyderabad-e1602418331531.jpeg");
+    background-size:cover;
+}
+#anchor-text{
+    color:white;
+    font-size:25px;
+}
+.navbar_about_head{
+    padding-top:170px;
+    padding-bottom: 50px;
+    font-size:100px;
+    font-weight: 400;
+    color:#ede947;
+}
+.about-para-style{
+    padding-top:15px;
+    text-align: center;
+    font-size: 25px;
+}
+.about-image-shakehand{
+    width:85%;
+    padding: 20px;
+}
+.team-card-container{
+    border-style:solid;
+    border-width: 2px;
+    border-radius: 10px;
+}
+.card-h1{
+    font-size: 25px;
+    padding-bottom:20px;
+    font-weight: 500;
+}
+.card-p{
+    font-size: 20px;
+}
+.card-image{
+    height: 300px;
+    width:220px;
+}
+.container-bg-color-of-card1{
+    border-radius: 5px;
+    background-color:#6EC1E4;
+}
+.container-bg-color-of-card2{
+    border-radius: 5px;
+    background-color:#61CE70;
+}
+.container-bg-color-of-card3{
+    border-radius: 5px;
+    background-color:#b6e3d4;
+}
+.vision-heading{
+    font-size: 35px;
+    padding-bottom: 15px;
+}
+.vision-para{
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+.consulation-card-container{
+    border-radius: 10px;
+    padding:60px;
+    text-align: center;
+    background-color:#28afb0;
+}
+.consultation-heading{
+    padding-bottom: 20px;
+    font-size:50px;
+    color:white;
+}
+.consultation-para{
+    font-size: 25px;
+    color:white;
+    padding-bottom: 20px;
+}
+.btn-style{
+    color:black;
+    font-weight: 500;
+    background-color:#EDE947;
+    border-radius: 40px;
+    border-width:0px;
+    height:60px;
+    width:190px;
+}
